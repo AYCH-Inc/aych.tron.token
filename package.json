@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@prantlf/jsonlint": "^8.0.3",
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "ajv-cli": "^3.0.0"
   },
   "scripts": {
